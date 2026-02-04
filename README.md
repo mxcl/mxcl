@@ -1,3 +1,1 @@
-Open before closed.
-
-The future is decentralized.
+I build things and sometimes they are good things.
