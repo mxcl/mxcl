@@ -1,7 +1,6 @@
-British-American software engineer
+> British-American software engineer
 
 # Max Howell
-> Creator of Homebrew. Big-web expat.
 
 Howell, Max (fl. early 21st century), British-American software engineer and open-source developer, best known as the creator of Homebrew, a package management system for macOS and Linux that achieved widespread adoption among software developers globally, with an estimated user base numbering in the tens of millions.
 
